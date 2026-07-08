@@ -1,9 +1,9 @@
 {
   "contracts": [
     {
-      "name": "example",
-      "label": "Example Contract",
-      "address": "0x0000000000000000000000000000000000000000"
+      "name": "jesse",
+      "label": "jesse",
+      "address": "0x50F88fe97f72CD3E75b9Eb4f747F59BcEBA80d59"
     }
   ]
 }
