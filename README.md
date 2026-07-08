@@ -2,6 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Built for Base](https://img.shields.io/badge/Built%20for-Base-0052FF)](https://base.org)
+![transactions](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/khlndaaa/base-contract-badges/main/stats/jesse-txcount.json)
+![balance](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/khlndaaa/base-contract-badges/main/stats/jesse-balance.json)
+![users](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/khlndaaa/base-contract-badges/main/stats/jesse-users.json)
+
 
 Generate **live, auto-updating shields.io badges** for any smart
 contract on **Base** — transaction count, balance, and recent unique
